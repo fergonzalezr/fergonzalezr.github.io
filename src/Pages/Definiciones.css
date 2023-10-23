@@ -1,0 +1,53 @@
+/* Estilos para el contenedor de definiciones */
+.def-definiciones {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Espacio entre las definiciones */
+    margin-left: 8%;
+    margin-right: 8%;
+    padding: 5%;
+    
+    
+  }
+.def-main{
+    background-image: url(./fondo.png); 
+    background-Size: cover; 
+    background-Repeat: no-repeat; 
+    min-Height: 100vh;
+    background-attachment: fixed;
+    
+}
+  
+  /* Estilos para cada caja de definición */
+  .def-def {
+    flex: 1; /* Distribuye el espacio disponible en las cajas */
+    padding: 20px;
+    border: 1px solid #ccc; /* Borde de 1 píxel sólido */
+    border-radius: 20px; /* Bordes redondeados */
+    /* Color de fondo */
+     /* Sombra ligera */
+     color: rgb(242, 237, 237);
+      /* From https://css.glass */
+      background: rgba(167, 167, 167, 0.62);
+      border-radius: 16px;
+      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border: 1px solid rgba(136, 136, 136, 0.96);
+  }
+  
+  /* Estilos para los títulos de las definiciones */
+  .def-def h2 {
+    font-weight: bold; /* Títulos en negrita */
+  }
+  
+  /* Estilos para los enlaces dentro de las definiciones */
+  .def-def a {
+    color: #007bff; /* Color de enlace */
+    text-decoration: none; /* Sin subrayado */
+  }
+  
+  .def-def a:hover {
+    text-decoration: underline; /* Subrayado al pasar el cursor */
+  }
+  

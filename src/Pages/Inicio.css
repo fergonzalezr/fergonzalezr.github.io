@@ -1,0 +1,18 @@
+.inicio-def {
+    flex: 1; /* Distribuye el espacio disponible en las cajas */
+    padding: 20px;
+    border: 1px solid #ccc; /* Borde de 1 píxel sólido */
+    border-radius: 20px; /* Bordes redondeados */
+    /* Color de fondo */
+     /* Sombra ligera */
+     color: aliceblue;
+    backdrop-filter: blur(300px);
+  }
+.inicio-main{
+    background-image: url(./fondo.png); 
+    background-Size: cover; 
+    background-Repeat: no-repeat; 
+    min-Height: 100vh;
+    background-attachment: fixed;
+    
+}

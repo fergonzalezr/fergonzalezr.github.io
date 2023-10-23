@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EcologiasCuir/static/css/main.995bb898.css",
+    "main.js": "/EcologiasCuir/static/js/main.74048963.js",
+    "static/js/787.c1112931.chunk.js": "/EcologiasCuir/static/js/787.c1112931.chunk.js",
+    "static/media/fondo.png": "/EcologiasCuir/static/media/fondo.d5eec8a2ae5e1cb80952.png",
+    "index.html": "/EcologiasCuir/index.html",
+    "main.995bb898.css.map": "/EcologiasCuir/static/css/main.995bb898.css.map",
+    "main.74048963.js.map": "/EcologiasCuir/static/js/main.74048963.js.map",
+    "787.c1112931.chunk.js.map": "/EcologiasCuir/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995bb898.css",
+    "static/js/main.74048963.js"
+  ]
+}
